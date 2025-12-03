@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+backend/venv/
+
+# Expo
+.expo/
+frontend/.expo/
+frontend/dist/
+
+# SQLite
+*.sqlite
+*.db
+backend/habits.db
+
+# Python
+__pycache__/
+backend/__pycache__/
+*.pyc
+
+# Environment
+.env
+backend/.env
+frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
+frontend/.vscode/
+
+# Artifacts
+.gemini/
+brain/
+artifacts/
+tmp/
+*.md
